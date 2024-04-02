@@ -24,4 +24,4 @@ Faça a extração e rode:
 python analise.py <nome_do_grafico>
 ```
 
-<img src="/graficos_cdi/cdi_teste.png">
+<img src="main/graficos_cdi/cdi_teste.png">
