@@ -23,5 +23,3 @@ Faça a extração e rode:
 ```python
 python analise.py <nome_do_grafico>
 ```
-
-<img src="cdi_teste.png">
